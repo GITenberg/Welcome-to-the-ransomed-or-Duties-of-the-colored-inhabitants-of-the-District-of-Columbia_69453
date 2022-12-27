@@ -1,0 +1,28 @@
+_repo: Welcome-to-the-ransomed-or-Duties-of-the-colored-inhabitants-of-the-District-of-Columbia_69453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Payne, Daniel Alexander
+    gutenberg_agent_id: '55273'
+    url: http://www.gutenberg.org/2009/agents/55273
+description: ''
+gutenberg_issued: '2022-11-30'
+identifiers:
+  gutenberg: '69453'
+language: en
+pgterms:marc904: https://www.loc.gov/item/92838813/
+pgterms:marc905: 20190408101925payne
+pgterms:marc906: '1862'
+pgterms:marc907: US
+production_note: hekula03, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: 'United States: Bull & Tuttle,1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Welcome to the ransomed, or, Duties of the colored inhabitants of the District
+  of Columbia
+url: http://www.gutenberg.org/ebooks/69453
