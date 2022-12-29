@@ -1,11 +1,16 @@
 _repo: Welcome-to-the-ransomed-or-Duties-of-the-colored-inhabitants-of-the-District-of-Columbia_69453
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69453-h/images/cover.jpg
 creator:
   author:
     agent_name: Payne, Daniel Alexander
     gutenberg_agent_id: '55273'
     url: http://www.gutenberg.org/2009/agents/55273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69453#Welcome-to-the-ransomed-or-Duties-of-the-colored-inhabitants-of-the-District-of-Columbia
 gutenberg_issued: '2022-11-30'
 identifiers:
   gutenberg: '69453'
